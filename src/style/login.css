@@ -1,0 +1,46 @@
+﻿.login {
+    border: 2px solid grey;
+    border-radius: 2rem;
+    padding: 3% 1%;
+    background-color: #DAE0E2;
+}
+
+    .login .input {
+        width: 70%;
+        margin: auto;
+        display: flex;
+        background: violet;
+    }
+
+    .login .textbox {
+        margin: 5% auto;
+    }
+
+    .login .submit button {
+        border-radius: 2rem;
+        width: 6rem;
+        height: 2.5rem;
+        background-color: #BB2CD9;
+        margin: auto;
+    }
+
+.input input{
+    color: white;
+}
+
+    .input label{
+        color: white;
+    }
+
+    svg{
+        color: white;
+    }
+
+    button span{
+        font-weight: 700;
+        color: white;
+    }
+
+.login .submit{
+    display: flex;
+}

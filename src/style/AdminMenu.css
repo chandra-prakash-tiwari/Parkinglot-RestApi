@@ -1,0 +1,30 @@
+﻿.Member {
+    display: table;
+    margin: auto;
+    font-size: 1.5rem;
+}
+
+.AdminMenu {
+    border: 2px solid grey;
+    border-radius: 2rem;
+    display: table;
+    padding: 1rem 2rem;
+    margin: auto;
+}
+
+.AdminMenu .Block {
+    cursor: pointer;
+    margin: 1rem auto 0rem;
+    background: #EA7773;
+    padding: 4px;
+}
+.Block:hover {
+    background: grey;
+}
+
+.Menu{
+    height: 100%;
+    width: 50%;
+    margin: auto;
+    padding: 18% 0%;
+}

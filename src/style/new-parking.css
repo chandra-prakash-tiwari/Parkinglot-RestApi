@@ -1,0 +1,51 @@
+.new-parking {
+    width: 44%;
+    border: 2px solid grey;
+    border-radius: 2rem;
+    margin: auto;
+    background-color: #DAE0E2;
+}
+
+    .new-parking .input {
+        width: 70%;
+        margin: auto;
+        display: flex;
+        background: violet;
+    }
+
+    .head{
+        display: flex;
+    }
+
+    .header{
+        margin: 4% auto 3%;
+    }
+
+    .new-parking .textbox {
+        margin: 3% auto;
+    }
+
+    .new-parking .submit button {
+        border-radius: 2rem;
+        width: 6rem;
+        height: 2.5rem;
+        background-color: #BB2CD9;
+    }
+
+    .new-parking .submit {
+        display: table;
+        margin: 0.5rem auto;
+    }
+
+.lot{
+    height: 100%;
+    padding: 15% 0%
+}
+
+    .parking{
+        height: 100%;
+        padding: 8% 0%;
+    }
+.radio {
+    margin:auto 6.3rem;
+}
